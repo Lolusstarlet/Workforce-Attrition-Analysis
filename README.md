@@ -1,10 +1,10 @@
-**HR Workforce & Attrition Dashboard (Power BI)
+**HR Workforce & Attrition Dashboard (Power BI)**
 
 An executive-level Power BI report that shows where, when and why employees leave, so HR leaders can decide where to act first. Built for managers and above, with every visual driven by DAX and responsive to slicers.
 
 Screenshots: add images/dashboard-overview.png here once the report is published.
 
-Business problem
+**Business Problem**
 
 Leadership knew turnover was high but could not see where it was concentrated, how quickly people left, or which drivers the business could actually influence. The goal was a one-page view that answers four questions:
 
